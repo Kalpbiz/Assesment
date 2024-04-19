@@ -22,7 +22,7 @@ The Wikipedia Philosophy Challenge is a web application/API that determines the 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/wikipedia-loop-challenge.git
+   git clone https://github.com/Kalpbiz/Assesment
 Navigate to the project directory:
 bash
 Copy code
