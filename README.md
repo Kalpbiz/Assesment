@@ -17,6 +17,8 @@ The Wikipedia Philosophy Challenge is a web application/API that determines the 
 - **HTML Parsing:** Cheerio
 - **Other:** npm, CSS
 
+## Preview
+![Wikipedia Challenge](/Preview.PNG)
 ## Installation
 
 1. Clone the repository:
@@ -50,4 +52,4 @@ Commit your changes (git commit -am 'Add new feature').
 Push to the branch (git push origin feature/my-feature).
 Create a new pull request.
 License
-This project is licensed under the MIT License.
+This project is licensed under the Standard License.
