@@ -1,0 +1,52 @@
+.App {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .form-container {
+    margin-bottom: 20px;
+  }
+  
+  input[type="text"] {
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+    margin-bottom: 10px;
+  }
+  
+  button {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #0056b3;
+  }
+  
+  .result-container {
+    margin-top: 20px;
+  }
+  
+  .result {
+    margin-bottom: 10px;
+  }
+  
+  .visited-pages {
+    text-align: left;
+  }
+  
+  .visited-pages ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .visited-pages li {
+    margin-bottom: 5px;
+  }
+  
